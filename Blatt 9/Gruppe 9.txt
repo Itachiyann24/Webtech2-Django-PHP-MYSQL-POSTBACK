@@ -1,0 +1,11 @@
+////// Blatt 09- Gruppe 09//////
+
+* Aufgabe 1: 10/10
+
+* Aufgabe 2: 8/8
+
+
+* Aufgabe 3: 11/12
+b) Datenbankname in settings.py muss noch abgeändert werden (-1 Punkt)
+d) Man kann hört auch als many to many field implementieren, siehe Vorlesung
+Summe: 29/30

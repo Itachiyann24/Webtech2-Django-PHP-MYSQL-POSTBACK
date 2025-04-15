@@ -1,0 +1,10 @@
+////// Blatt 02- Gruppe 09//////
+
+* Aufgabe 1: 6,5/10
+Es fehlt das Implementierungs ER-Diagramm (siehe Vorlesung Kapitel 1 Folie 36 unten) (-3 Punkte)
+Bei den Integritätsbedingungen hättet ihr genauer auf dieses ER-Diagramm eingehen sollen. (-0,5 Punkte)
+* Aufgabe 2: 3/4
+Es fehlen jeweils die Abfragen die explizit gefordert waren (-1 Punkt)
+* Aufgabe 3: 5,5/6
+Es fehlt die Abfrage mit INNER JOIN, die laut Aufgabenstellung durch "einschließlich" gefordert war (-0,5 Punkte)
+Summe: 15/20

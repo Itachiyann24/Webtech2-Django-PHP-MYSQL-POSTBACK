@@ -1,0 +1,25 @@
+////// Blatt 01- Gruppe 09//////
+
+* Aufgabe 1: 4/4
+
+* Aufgabe 2: 3/5
+Es fehlen noch 2 Public-Keys in der Datei authorized_keys unter \.ssh
+
+* Aufgabe 3: 0/4 
+Folgendes müsst ihr in eine .htaccess Datei schreiben:
+order deny,allow
+deny from all
+
+AuthType Basic
+AuthName "Group Password" (Hiermit ist nicht das Passwort gemeint, sondern der Anmeldename, mit dem ihr euch auf der Webseite anmelden wollt)
+Require valid-user
+allow from herzkoenig.informatik.uni-kl.de
+Satisfy any
+
+AuthUserFile /home/lamp/.htpasswd
+
+Danach gebt ihr im Home verzeichnis htpasswd .htpasswd [Auth Name] ein und fügt euer Passwort ein, wenn ihr danach gefragt werdet.
+* Aufgabe 4: 8/8
+
+Summe: 15/20
+

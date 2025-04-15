@@ -1,0 +1,14 @@
+////// Blatt 10- Gruppe 09//////
+
+* Aufgabe 1: 6/6
+
+
+* Aufgabe 2: 5/6
+Bei Aufgabe 2d am besten nichts am pk machen - Django kümmert sich doch darum. (-1 Punkt)
+
+* Aufgabe 3: 4/6
+Anhand eures Codes fügt ihr die erstellten Studenten nicht eurer Datenbank hinzu.(-2 Punkte)
+
+* Aufgabe 4: 11,5/12
+Namen fehlen (Plural Name) (-0,5 Punkte)
+Summe: 26,5/30

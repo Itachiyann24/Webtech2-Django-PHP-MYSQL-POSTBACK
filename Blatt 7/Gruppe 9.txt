@@ -1,0 +1,17 @@
+////// Blatt 07- Gruppe 09//////
+
+* Aufgabe 1: 6/6
+
+
+* Aufgabe 2: 6/6
+
+* Aufgabe 3: 6/6
+
+* Aufgabe 4: 7/12
+c) Es ist ebenfalls sinnvoll, der Datei den ".ht" präfix zu geben, damit die Datei auf dem Server nicht angezeigt wird.
+Warum habt ihr das auskommentiert? (-1 Punkt)
+d) Keine Tabelle erstellt bzw überhaupt alle Studenten ausgegeben (-1,5 Punkte)
+h) fehlt (-1,5 Punkte)
+Beachtet die leerzeichen zwischen den Punktoperatoren und prüft es auf fehlende ";"
+-1 Punkt, da es nicht funktionsfähig ist 
+Summe: 25/30

@@ -1,0 +1,12 @@
+////// Blatt 08- Gruppe 9//////
+
+* Aufgabe 1: 6/6
+
+
+* Aufgabe 2: 17/24
+SQL Queries wurden nicht vor Injections geschützt (-1 Punkt)
+c) Mitteilung, bei ungültiger Matrikelnummer wäre wünschenswert gewesen (-1 Punkt)
+f) Änderungen werden nicht übernommen (-3 Punkte)
+"Achten Sie immer darauf ob die Aktion per GET oder POST ausgelöst werden soll. Begründen Sie Ihre Entscheidung." fehlt (-1 Punkt)
+Kein CSS benutzt (-1 Punkt)
+Summe: 23/30

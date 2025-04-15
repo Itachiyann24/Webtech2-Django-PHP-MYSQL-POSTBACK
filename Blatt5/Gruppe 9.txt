@@ -1,0 +1,13 @@
+////// Blatt 05- Gruppe 09//////
+
+* Aufgabe 1: 4/5
+a) zusätzlich zu blockquote wird auch das style Attribut ausgegeben: "<blockquote style="color:blue">"
+(-1 Punkt) 
+
+* Aufgabe 2: 10/8
+
+* Aufgabe 3: 7/7
+
+* Aufgabe 4: 10/10
+
+Summe: 31/30

@@ -1,0 +1,17 @@
+////// Blatt 11- Gruppe 09//////
+
+* Aufgabe 1: 9/9
+d) Streicht enrollment, dann funktionierts
+g und h. Es ging eher darum, dem Professor model ein Field "Titel" zu geben
+i) mit hört anstelle von enrollment gehts
+* Aufgabe 2: 4/5
+Bitte alle Zeilen kommentieren (-1 Punkt)
+c) zur Info: Je nachdem, wie die Datenbank implementiert ist, kann es zu einem Fehler führen mit dem Setzen von s.pk = None und dann s.save() kommen. 
+Wenn matnr der pk ist, dann wäre es unproblematisch, da eine neue matnr zugewiesen wird und ein neuer Student entsteht. Wenn matnr nur unique=True gesetzt wurde, dann kommt es zu einer Kollision und es muss entweder der alte Student gelöscht werden, oder die matnr von s auch geändert werden. 
+
+* Aufgabe 3: 6,5/8
+b) Das head Element muss <title></title> enthalten (und Doctype fehlt auch) (-1 Punkt)
+c) content type fehlt (-0,5 Punkte)
+* Aufgabe 4: 0/8
+Fehlt
+Summe: 19,5/30

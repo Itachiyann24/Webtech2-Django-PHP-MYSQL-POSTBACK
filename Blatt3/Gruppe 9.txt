@@ -1,0 +1,17 @@
+////// Blatt 03- Gruppe 09//////
+
+* Aufgabe 1: 7/7
+
+
+* Aufgabe 2: 5,5/7
+a) Kardinalitäten fehlen von Prüfung zu Student und Vorlesung (-0,5 Punkte)
+b) Note liegt nicht in der Tabelle Prüfung (-1 Punkt)
+
+* Aufgabe 3: 7/10
+b) Fehlt die Erklärung, was z.b. mit den vorhandenen Datensätzen passiert (-0,5 Punkte) 
+c) Es fehlen die Vorlesungen von Fleiß (-0,5 Punkte)
+Es wurde ausdrücklich gefordert, mit Variablen anstelle von konkreten Personalnummern zu arbeiten. (-0,5 Punkte für e), g) = -1 Punkt)
+i) fehlt (-1) Punkt
+* Aufgabe 4: 6/6
+
+Summe: 25,5/30

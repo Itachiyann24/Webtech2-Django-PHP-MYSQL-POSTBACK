@@ -1,0 +1,18 @@
+////// Blatt 04- Gruppe 09//////
+
+* Aufgabe 1: 4,5/6
+d) Integrität:
+Was passiert, wenn wir Daten ändern oder löschen wollen?
+Sehen kann man dies, indem man die Datei uni_create-schema.sql liest. (-1 Punkt)
+Mitarbeiter ist über PersNr mit Vorlesung verbunden (-0,5 Punkte)
+
+* Aufgabe 2: 12,5/14
+d) Er-Diagramm fehlt (-1 Punkt)
+f) Vergessen die Spalte einzufügen (-0,5 Punkte)
+* Aufgabe 3: 4/4
+b) Ausgabe keine Anführungszeichen, nach dem + fehlt eine 2 und zwischen 5 und 3 kein Leerzeichen, da echo von sich aus kein Leerzeichen erstellt
+(-0,5 Punkte)
+c) wird in Float konvertiert
+* Aufgabe 4: 6/6
+
+Summe: 28/30
