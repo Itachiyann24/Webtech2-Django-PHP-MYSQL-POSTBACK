@@ -39,5 +39,8 @@ In diesem Projekt habe ich folgende Technologien und Konzepte erlernt und angewe
 | Backend | Django, Python |
 | Datenbank (Prod) | PostgreSQL |
 | Datenbank (Dev) | SQLite / MySQL |
+| Server | Gunicorn + Nginx |
 | Betriebssystem | Ubuntu (VPS) |
 | Postback | HTTP-Webhooks |
+| Container (optional) | Docker, Docker Compose |
+
